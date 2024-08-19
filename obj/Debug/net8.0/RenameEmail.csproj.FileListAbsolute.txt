@@ -1,0 +1,17 @@
+G:\projects\RenameEmail\RenameEmail\obj\Debug\net8.0\RenameEmail.csproj.AssemblyReference.cache
+G:\projects\RenameEmail\RenameEmail\obj\Debug\net8.0\RenameEmail.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\RenameEmail\RenameEmail\obj\Debug\net8.0\RenameEmail.AssemblyInfoInputs.cache
+G:\projects\RenameEmail\RenameEmail\obj\Debug\net8.0\RenameEmail.AssemblyInfo.cs
+G:\projects\RenameEmail\RenameEmail\obj\Debug\net8.0\RenameEmail.csproj.CoreCompileInputs.cache
+G:\projects\RenameEmail\RenameEmail\bin\Debug\net8.0\RenameEmail.exe
+G:\projects\RenameEmail\RenameEmail\bin\Debug\net8.0\RenameEmail.deps.json
+G:\projects\RenameEmail\RenameEmail\bin\Debug\net8.0\RenameEmail.runtimeconfig.json
+G:\projects\RenameEmail\RenameEmail\bin\Debug\net8.0\RenameEmail.dll
+G:\projects\RenameEmail\RenameEmail\bin\Debug\net8.0\RenameEmail.pdb
+G:\projects\RenameEmail\RenameEmail\bin\Debug\net8.0\Python.Runtime.dll
+G:\projects\RenameEmail\RenameEmail\obj\Debug\net8.0\RenameEm.4477B5E8.Up2Date
+G:\projects\RenameEmail\RenameEmail\obj\Debug\net8.0\RenameEmail.dll
+G:\projects\RenameEmail\RenameEmail\obj\Debug\net8.0\refint\RenameEmail.dll
+G:\projects\RenameEmail\RenameEmail\obj\Debug\net8.0\RenameEmail.pdb
+G:\projects\RenameEmail\RenameEmail\obj\Debug\net8.0\RenameEmail.genruntimeconfig.cache
+G:\projects\RenameEmail\RenameEmail\obj\Debug\net8.0\ref\RenameEmail.dll
